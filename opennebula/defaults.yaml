@@ -61,7 +61,7 @@ kernel:
         sunstone_views:
           path: /etc/one/sunstone-views.yaml
         sunstone_view_cloud:
-          path: /etc/one/sunstone-views/cloud.yaml
+          path: /etc/one/sunstone-views/kvm/cloud.yaml
       service: {}
     novnc:
       service: {}
